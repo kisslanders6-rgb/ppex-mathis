@@ -1,0 +1,9 @@
+*.o
+*.d
+*.a
+*~
+*.swp
+.DS_Store
+/minimake
+/tests/unit_tests
+/tests/functional_tests
